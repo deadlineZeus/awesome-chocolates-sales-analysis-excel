@@ -96,9 +96,28 @@ Excel Features Demonstrated:
 
 ## Recommendations
 
-- Discontinue low-performing subcategories based on negative profit trends
-- Optimize high-return segments by improving product quality or customer support
-- Use similar Excel-driven templates for recurring performance reviews
+The following recommendations are based on insights derived from the sales and profit analysis of Awesome Chocolates:
+
+<details>
+<summary><strong>1. Discontinue low-performing subcategories based on negative profit trends</strong></summary>
+
+Consistently unprofitable subcategories should be reviewed for discontinuation, as they indicate a mismatch between cost and customer demand. These products reduce overall profitability and may occupy valuable shelf or warehouse space that could be better used for high-margin items. By eliminating or repositioning underperformers, Awesome Chocolates can streamline its offerings, reduce operational waste, and reallocate resources toward more successful product lines, leading to improved overall financial health.
+
+</details>
+
+<details>
+<summary><strong>2. Optimize high-return segments by improving product quality or customer support</strong></summary>
+
+A high volume of product returns often signals issues with quality, packaging, or post-sale service. Identifying these segments allows the company to improve products or support processes that may be causing dissatisfaction. Enhancing product quality, clarifying marketing descriptions, or improving return policies can significantly reduce return rates. This not only minimizes financial losses but also improves customer satisfaction and loyalty — both critical for long-term brand success.
+
+</details>
+
+<details>
+<summary><strong>3. Use similar Excel-driven templates for recurring performance reviews</strong></summary>
+
+The current Excel-based model is structured, repeatable, and easy to update, making it ideal for monthly or quarterly performance tracking. With minimal changes to the data source, stakeholders can monitor KPIs, segment performance, and emerging trends in a consistent format. Adopting this approach across reporting cycles saves time, improves decision-making, and promotes data transparency. It serves as a lightweight, effective alternative to complex BI tools for small-to-mid-sized businesses like Awesome Chocolates.
+
+</details>
 
 ---
 
