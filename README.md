@@ -85,7 +85,7 @@ Each question is hyperlinked to a dedicated analysis sheet within the Excel file
 
 Platform: Microsoft Excel  
 Excel Features Demonstrated:
-- Pivot Tables and Charts
+- Pivot Tables
 - Conditional Formatting
 - Slicers (optional in future versions)
 - Formula logic: `SUMIFS`, `COUNTIFS`, `IF`, `AVERAGEIFS`, logical operators
