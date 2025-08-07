@@ -1,26 +1,10 @@
 # Awesome Chocolates – Excel-Based Sales Data Analysis
 
-## Project Overview
+## Executive Summary & Project Overview
 
 This project demonstrates Excel-based data analytics applied to a simulated retail company, *Awesome Chocolates*. It addresses 10 core business questions using structured worksheets, pivot tables, Excel formulas, and visualizations — designed for beginner-to-intermediate data analysts.
 
 Each business question is linked to a dedicated analysis sheet, and every sheet contains a "Home" button to return to the main question list. The workbook is structured for easy navigation and repeatable use.
-
----
-
-<details>
-<summary>Table of Contents</summary>
-
-- [Objectives](#objectives)
-- [Business Questions](#business-questions)
-- [Dataset Overview](#dataset-overview)
-- [Project Files](#project-files)
-- [Navigation Features](#navigation-features)
-- [Tools and Techniques](#tools-and-techniques)
-- [Recommendations](#recommendations)
-- [Project Structure](#project-structure)
-- [Contact](#contact)
-</details>
 
 ---
 
@@ -30,6 +14,21 @@ Each business question is linked to a dedicated analysis sheet, and every sheet 
 - Identify regional and time-based trends in sales performance
 - Use Excel’s analytical features to answer real business questions
 - Build a clean, navigable workbook for business users without using a formal dashboard
+  
+---
+
+<details open>
+<summary>Table of Contents</summary>
+
+- [Business Questions](#business-questions)
+- [Dataset Overview](#dataset-overview)
+- [Project Files](#project-files)
+- [Navigation Features](#navigation-features)
+- [Tools and Techniques](#tools-and-techniques)
+- [Recommendations](#recommendations)
+- [Project Structure](#project-structure)
+- [Contact](#contact)
+</details>
 
 ---
 
